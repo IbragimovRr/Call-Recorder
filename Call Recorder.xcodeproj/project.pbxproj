@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		441E26A428D917E100D6A0AC /* CodeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441E26A328D917E100D6A0AC /* CodeViewController.swift */; };
+		441E26A628DA765700D6A0AC /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441E26A528DA765700D6A0AC /* MainViewController.swift */; };
+		441E26A928DA80EF00D6A0AC /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 441E26A828DA80EF00D6A0AC /* Alamofire */; };
 		448E30E328D8FC200053A082 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 448E30E228D8FC200053A082 /* AppDelegate.swift */; };
 		448E30E528D8FC200053A082 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 448E30E428D8FC200053A082 /* SceneDelegate.swift */; };
 		448E30E728D8FC200053A082 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 448E30E628D8FC200053A082 /* ViewController.swift */; };
@@ -17,6 +20,18 @@
 		448E30FD28D8FC220053A082 /* Call_RecorderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 448E30FC28D8FC220053A082 /* Call_RecorderTests.swift */; };
 		448E310728D8FC220053A082 /* Call_RecorderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 448E310628D8FC220053A082 /* Call_RecorderUITests.swift */; };
 		448E310928D8FC220053A082 /* Call_RecorderUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 448E310828D8FC220053A082 /* Call_RecorderUITestsLaunchTests.swift */; };
+		448E311D28D900D80053A082 /* SFPRODISPLAYSEMIBOLDITALIC.OTF in Resources */ = {isa = PBXBuildFile; fileRef = 448E311628D900D80053A082 /* SFPRODISPLAYSEMIBOLDITALIC.OTF */; };
+		448E312028D900D80053A082 /* Montserrat-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 448E311928D900D80053A082 /* Montserrat-SemiBold.ttf */; };
+		448E312128D900D80053A082 /* proximanova_bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 448E311A28D900D80053A082 /* proximanova_bold.otf */; };
+		448E312228D900D80053A082 /* Montserrat-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 448E311B28D900D80053A082 /* Montserrat-Regular.ttf */; };
+		448E312328D900D80053A082 /* SFProDisplay-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 448E311C28D900D80053A082 /* SFProDisplay-SemiBold.ttf */; };
+		448E312728D90B560053A082 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 448E312628D90B560053A082 /* GoogleService-Info.plist */; };
+		448E312A28D90BFB0053A082 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 448E312928D90BFB0053A082 /* FirebaseAuth */; };
+		448E312C28D90BFB0053A082 /* FirebaseAuthCombine-Community in Frameworks */ = {isa = PBXBuildFile; productRef = 448E312B28D90BFB0053A082 /* FirebaseAuthCombine-Community */; };
+		44B8724E28DB64B700B5D201 /* PhoneNumberViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44B8724D28DB64B700B5D201 /* PhoneNumberViewController.swift */; };
+		44B8725128DFB83600B5D201 /* SwiftyJSON in Frameworks */ = {isa = PBXBuildFile; productRef = 44B8725028DFB83600B5D201 /* SwiftyJSON */; };
+		44D4526028E1027600D0FFA5 /* module.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D4525F28E1027600D0FFA5 /* module.swift */; };
+		44D4526228E2116D00D0FFA5 /* AudioTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D4526128E2116D00D0FFA5 /* AudioTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,6 +52,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		441E26A328D917E100D6A0AC /* CodeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeViewController.swift; sourceTree = "<group>"; };
+		441E26A528DA765700D6A0AC /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		448E30DF28D8FC200053A082 /* Call Recorder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Call Recorder.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		448E30E228D8FC200053A082 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		448E30E428D8FC200053A082 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -51,6 +68,15 @@
 		448E310228D8FC220053A082 /* Call RecorderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Call RecorderUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		448E310628D8FC220053A082 /* Call_RecorderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Call_RecorderUITests.swift; sourceTree = "<group>"; };
 		448E310828D8FC220053A082 /* Call_RecorderUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Call_RecorderUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		448E311628D900D80053A082 /* SFPRODISPLAYSEMIBOLDITALIC.OTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFPRODISPLAYSEMIBOLDITALIC.OTF; sourceTree = "<group>"; };
+		448E311928D900D80053A082 /* Montserrat-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-SemiBold.ttf"; sourceTree = "<group>"; };
+		448E311A28D900D80053A082 /* proximanova_bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = proximanova_bold.otf; sourceTree = "<group>"; };
+		448E311B28D900D80053A082 /* Montserrat-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Regular.ttf"; sourceTree = "<group>"; };
+		448E311C28D900D80053A082 /* SFProDisplay-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SFProDisplay-SemiBold.ttf"; sourceTree = "<group>"; };
+		448E312628D90B560053A082 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		44B8724D28DB64B700B5D201 /* PhoneNumberViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhoneNumberViewController.swift; sourceTree = "<group>"; };
+		44D4525F28E1027600D0FFA5 /* module.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = module.swift; sourceTree = "<group>"; };
+		44D4526128E2116D00D0FFA5 /* AudioTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +84,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				441E26A928DA80EF00D6A0AC /* Alamofire in Frameworks */,
+				448E312A28D90BFB0053A082 /* FirebaseAuth in Frameworks */,
+				44B8725128DFB83600B5D201 /* SwiftyJSON in Frameworks */,
+				448E312C28D90BFB0053A082 /* FirebaseAuthCombine-Community in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +108,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		441E26A228D917C500D6A0AC /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				448E30E628D8FC200053A082 /* ViewController.swift */,
+				441E26A328D917E100D6A0AC /* CodeViewController.swift */,
+				441E26A528DA765700D6A0AC /* MainViewController.swift */,
+				44B8724D28DB64B700B5D201 /* PhoneNumberViewController.swift */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
 		448E30D628D8FC200053A082 = {
 			isa = PBXGroup;
 			children = (
@@ -101,14 +142,18 @@
 		448E30E128D8FC200053A082 /* Call Recorder */ = {
 			isa = PBXGroup;
 			children = (
+				441E26A228D917C500D6A0AC /* ViewController */,
+				448E311528D900D80053A082 /* Fonts */,
 				448E30E228D8FC200053A082 /* AppDelegate.swift */,
 				448E30E428D8FC200053A082 /* SceneDelegate.swift */,
-				448E30E628D8FC200053A082 /* ViewController.swift */,
 				448E30E828D8FC200053A082 /* Main.storyboard */,
 				448E30EE28D8FC220053A082 /* Assets.xcassets */,
 				448E30F028D8FC220053A082 /* LaunchScreen.storyboard */,
+				448E312628D90B560053A082 /* GoogleService-Info.plist */,
 				448E30F328D8FC220053A082 /* Info.plist */,
 				448E30EB28D8FC200053A082 /* Call_Recorder.xcdatamodeld */,
+				44D4525F28E1027600D0FFA5 /* module.swift */,
+				44D4526128E2116D00D0FFA5 /* AudioTableViewCell.swift */,
 			);
 			path = "Call Recorder";
 			sourceTree = "<group>";
@@ -130,6 +175,18 @@
 			path = "Call RecorderUITests";
 			sourceTree = "<group>";
 		};
+		448E311528D900D80053A082 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				448E311628D900D80053A082 /* SFPRODISPLAYSEMIBOLDITALIC.OTF */,
+				448E311928D900D80053A082 /* Montserrat-SemiBold.ttf */,
+				448E311A28D900D80053A082 /* proximanova_bold.otf */,
+				448E311B28D900D80053A082 /* Montserrat-Regular.ttf */,
+				448E311C28D900D80053A082 /* SFProDisplay-SemiBold.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -146,6 +203,12 @@
 			dependencies = (
 			);
 			name = "Call Recorder";
+			packageProductDependencies = (
+				448E312928D90BFB0053A082 /* FirebaseAuth */,
+				448E312B28D90BFB0053A082 /* FirebaseAuthCombine-Community */,
+				441E26A828DA80EF00D6A0AC /* Alamofire */,
+				44B8725028DFB83600B5D201 /* SwiftyJSON */,
+			);
 			productName = "Call Recorder";
 			productReference = 448E30DF28D8FC200053A082 /* Call Recorder.app */;
 			productType = "com.apple.product-type.application";
@@ -218,6 +281,11 @@
 				Base,
 			);
 			mainGroup = 448E30D628D8FC200053A082;
+			packageReferences = (
+				448E312828D90BFB0053A082 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+				441E26A728DA80EF00D6A0AC /* XCRemoteSwiftPackageReference "Alamofire" */,
+				44B8724F28DFB83600B5D201 /* XCRemoteSwiftPackageReference "SwiftyJSON" */,
+			);
 			productRefGroup = 448E30E028D8FC200053A082 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -234,9 +302,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				448E312228D900D80053A082 /* Montserrat-Regular.ttf in Resources */,
 				448E30F228D8FC220053A082 /* LaunchScreen.storyboard in Resources */,
+				448E312728D90B560053A082 /* GoogleService-Info.plist in Resources */,
+				448E312028D900D80053A082 /* Montserrat-SemiBold.ttf in Resources */,
+				448E312328D900D80053A082 /* SFProDisplay-SemiBold.ttf in Resources */,
 				448E30EF28D8FC220053A082 /* Assets.xcassets in Resources */,
+				448E311D28D900D80053A082 /* SFPRODISPLAYSEMIBOLDITALIC.OTF in Resources */,
 				448E30EA28D8FC200053A082 /* Main.storyboard in Resources */,
+				448E312128D900D80053A082 /* proximanova_bold.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,7 +338,12 @@
 				448E30E728D8FC200053A082 /* ViewController.swift in Sources */,
 				448E30E328D8FC200053A082 /* AppDelegate.swift in Sources */,
 				448E30E528D8FC200053A082 /* SceneDelegate.swift in Sources */,
+				441E26A628DA765700D6A0AC /* MainViewController.swift in Sources */,
+				44B8724E28DB64B700B5D201 /* PhoneNumberViewController.swift in Sources */,
+				44D4526028E1027600D0FFA5 /* module.swift in Sources */,
+				441E26A428D917E100D6A0AC /* CodeViewController.swift in Sources */,
 				448E30ED28D8FC200053A082 /* Call_Recorder.xcdatamodeld in Sources */,
+				44D4526228E2116D00D0FFA5 /* AudioTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -444,11 +523,14 @@
 				DEVELOPMENT_TEAM = DKHFV79UK7;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Call Recorder/Info.plist";
+				INFOPLIST_KEY_NSContactsUsageDescription = "Need contacts access to display info in this app";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -458,7 +540,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -472,11 +554,14 @@
 				DEVELOPMENT_TEAM = DKHFV79UK7;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Call Recorder/Info.plist";
+				INFOPLIST_KEY_NSContactsUsageDescription = "Need contacts access to display info in this app";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -486,7 +571,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -606,6 +691,56 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		441E26A728DA80EF00D6A0AC /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofire/Alamofire.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+		448E312828D90BFB0053A082 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+		44B8724F28DFB83600B5D201 /* XCRemoteSwiftPackageReference "SwiftyJSON" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SwiftyJSON/SwiftyJSON.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		441E26A828DA80EF00D6A0AC /* Alamofire */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 441E26A728DA80EF00D6A0AC /* XCRemoteSwiftPackageReference "Alamofire" */;
+			productName = Alamofire;
+		};
+		448E312928D90BFB0053A082 /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 448E312828D90BFB0053A082 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+		448E312B28D90BFB0053A082 /* FirebaseAuthCombine-Community */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 448E312828D90BFB0053A082 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = "FirebaseAuthCombine-Community";
+		};
+		44B8725028DFB83600B5D201 /* SwiftyJSON */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 44B8724F28DFB83600B5D201 /* XCRemoteSwiftPackageReference "SwiftyJSON" */;
+			productName = SwiftyJSON;
+		};
+/* End XCSwiftPackageProductDependency section */
 
 /* Begin XCVersionGroup section */
 		448E30EB28D8FC200053A082 /* Call_Recorder.xcdatamodeld */ = {
