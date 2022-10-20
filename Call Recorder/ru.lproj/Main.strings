@@ -1,0 +1,200 @@
+
+/* Class = "UILabel"; text = "Фильтры"; ObjectID = "0J8-iV-NRh"; */
+"0J8-iV-NRh.text" = "Фильтры";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "1vL-gg-6kk"; */
+"1vL-gg-6kk.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Call Recorder"; ObjectID = "2F1-Sz-X4r"; */
+"2F1-Sz-X4r.text" = "Call Recorder";
+
+/* Class = "UILabel"; text = "+79882912310"; ObjectID = "32T-KM-TwX"; */
+"32T-KM-TwX.text" = "+79882912310";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "38J-Kg-Vxh"; */
+"38J-Kg-Vxh.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Skip"; ObjectID = "4eL-1F-DPD"; */
+"4eL-1F-DPD.configuration.title" = "Пропустить";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4eL-1F-DPD"; */
+"4eL-1F-DPD.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "A2q-9L-689"; */
+"A2q-9L-689.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "AOB-T8-m5G"; */
+"AOB-T8-m5G.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "BZT-Nx-uIJ"; */
+"BZT-Nx-uIJ.text" = "1";
+
+/* Class = "UILabel"; text = "+7"; ObjectID = "Cc0-8S-nt1"; */
+"Cc0-8S-nt1.text" = "+7";
+
+/* Class = "UILabel"; text = "7"; ObjectID = "H2e-0u-ssw"; */
+"H2e-0u-ssw.text" = "7";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HLO-Vm-ZmA"; */
+"HLO-Vm-ZmA.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "JOI-9f-0H1"; */
+"JOI-9f-0H1.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "JYU-2h-yem"; */
+"JYU-2h-yem.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "22.02"; ObjectID = "JZv-gt-gKT"; */
+"JZv-gt-gKT.text" = "22.02";
+
+/* Class = "UILabel"; text = "Недавние"; ObjectID = "K4O-7t-z1H"; */
+"K4O-7t-z1H.text" = "Недавние";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "KaW-AS-aGa"; */
+"KaW-AS-aGa.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Запросить повторно можно через"; ObjectID = "LQf-QP-OZx"; */
+"LQf-QP-OZx.text" = "Запросить повторно можно через";
+
+/* Class = "UILabel"; text = "Мой номер"; ObjectID = "LXN-Wo-EHs"; */
+"LXN-Wo-EHs.text" = "Мой номер";
+
+/* Class = "UILabel"; text = "Records"; ObjectID = "MKd-WK-EY2"; */
+"MKd-WK-EY2.text" = "Records";
+
+/* Class = "UIButton"; configuration.title = "Отправить код"; ObjectID = "Mb6-qZ-WTx"; */
+"Mb6-qZ-WTx.configuration.title" = "Отправить код";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Mb6-qZ-WTx"; */
+"Mb6-qZ-WTx.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Mke-D3-vkN"; */
+"Mke-D3-vkN.text" = "0";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "MvH-wh-mG0"; */
+"MvH-wh-mG0.text" = "4";
+
+/* Class = "UILabel"; text = "Когда записи появятся, они будут отображаться здесь"; ObjectID = "NyR-15-lai"; */
+"NyR-15-lai.text" = "Когда записи появятся, они будут отображаться здесь";
+
+/* Class = "UILabel"; text = "01:00"; ObjectID = "RIz-CF-dfJ"; */
+"RIz-CF-dfJ.text" = "01:00";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "S8C-aY-hGg"; */
+"S8C-aY-hGg.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "SHl-5P-7Ys"; */
+"SHl-5P-7Ys.text" = "3";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "SiD-I6-jpz"; */
+"SiD-I6-jpz.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "SyL-Ez-33L"; */
+"SyL-Ez-33L.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Как здесь записывать звонки?"; ObjectID = "TBO-cu-f6d"; */
+"TBO-cu-f6d.text" = "Как здесь записывать звонки?";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Vln-Ji-CfF"; */
+"Vln-Ji-CfF.text" = "Имя";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Wt6-gW-UrX"; */
+"Wt6-gW-UrX.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "XiP-vR-zrA"; */
+"XiP-vR-zrA.text" = "2";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Xj9-oe-qr2"; */
+"Xj9-oe-qr2.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "9"; ObjectID = "YnX-VM-4WM"; */
+"YnX-VM-4WM.text" = "9";
+
+/* Class = "UILabel"; text = "Сервисные номера"; ObjectID = "Z4p-4z-2Ag"; */
+"Z4p-4z-2Ag.text" = "Сервисные номера";
+
+/* Class = "UILabel"; text = "Call Recorder"; ObjectID = "Z9q-Yc-4cX"; */
+"Z9q-Yc-4cX.text" = "Call Recorder";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZMT-7P-ljW"; */
+"ZMT-7P-ljW.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "baK-EY-iwu"; */
+"baK-EY-iwu.text" = "5";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "c9Y-cY-aSY"; */
+"c9Y-cY-aSY.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ck2-Uu-R6R"; */
+"ck2-Uu-R6R.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "d0q-Ns-glV"; */
+"d0q-Ns-glV.text" = "00:00";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "e1g-Et-4x6"; */
+"e1g-Et-4x6.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "8"; ObjectID = "eV6-eo-rJR"; */
+"eV6-eo-rJR.text" = "8";
+
+/* Class = "UILabel"; text = "Контакты"; ObjectID = "ehK-aj-27j"; */
+"ehK-aj-27j.text" = "Контакты";
+
+/* Class = "UILabel"; text = "You can call your Contact number by dialing Service number and connect them in Merge Calls mode. Application first dials Service and then Contacts number"; ObjectID = "fUF-dp-sit"; */
+"fUF-dp-sit.text" = "Вы можете позвонить на свой контактный номер, набрав номер службы, и соединить их в режиме объединения вызовов. Приложение сначала набирает сервис, а затем номер контакта";
+
+/* Class = "UIButton"; configuration.title = "Зайти"; ObjectID = "gd4-Fq-bAW"; */
+"gd4-Fq-bAW.configuration.title" = "Зайти";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gd4-Fq-bAW"; */
+"gd4-Fq-bAW.normalTitle" = "Зайти";
+
+/* Class = "UIButton"; configuration.title = "Enable Notifications in Settings to Dial Service Number"; ObjectID = "hpE-pn-mk7"; */
+"hpE-pn-mk7.configuration.title" = "Включите уведомления в настройках, чтобы набрать сервисный номер";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hpE-pn-mk7"; */
+"hpE-pn-mk7.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "iam-Bp-xeR"; */
+"iam-Bp-xeR.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "6"; ObjectID = "icY-ib-xwU"; */
+"icY-ib-xwU.text" = "6";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jbN-SI-xeG"; */
+"jbN-SI-xeG.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Спасибо! Отправил код,  ловите 👆"; ObjectID = "jeD-tc-XIZ"; */
+"jeD-tc-XIZ.text" = "Спасибо! Отправил код,  ловите 👆";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "l7k-2l-HRH"; */
+"l7k-2l-HRH.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Russia"; ObjectID = "laB-Fu-atH"; */
+"laB-Fu-atH.text" = "Russia";
+
+/* Class = "UILabel"; text = "Привет! Введите телефон и заходите скорее 👌 "; ObjectID = "ptp-qS-dOP"; */
+"ptp-qS-dOP.text" = "Привет! Введите телефон и заходите скорее 👌 ";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "raX-7c-0sP"; */
+"raX-7c-0sP.text" = "00:00";
+
+/* Class = "UILabel"; text = "988 291 23 10"; ObjectID = "rw7-dx-agZ"; */
+"rw7-dx-agZ.text" = "988 291 23 10";
+
+/* Class = "UITextField"; text = "+7"; ObjectID = "scc-LW-1bS"; */
+"scc-LW-1bS.text" = "+7";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "syj-4G-sd8"; */
+"syj-4G-sd8.text" = "Настройки";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "u8w-0u-7Sn"; */
+"u8w-0u-7Sn.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Пока тут пусто"; ObjectID = "ubQ-9M-MxP"; */
+"ubQ-9M-MxP.text" = "Пока тут пусто";
+
+/* Class = "UILabel"; text = "Клавиатура"; ObjectID = "xJf-df-2KD"; */
+"xJf-df-2KD.text" = "Клавиатура";
+
+"6cW-dT-LuW.text" = "Удалить аккаунт";

@@ -10,6 +10,12 @@
 		441E26A428D917E100D6A0AC /* CodeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441E26A328D917E100D6A0AC /* CodeViewController.swift */; };
 		441E26A628DA765700D6A0AC /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 441E26A528DA765700D6A0AC /* MainViewController.swift */; };
 		441E26A928DA80EF00D6A0AC /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 441E26A828DA80EF00D6A0AC /* Alamofire */; };
+		445297FB28E4EF3C000A3B64 /* loading.json in Resources */ = {isa = PBXBuildFile; fileRef = 445297FA28E4EF3B000A3B64 /* loading.json */; };
+		445D5FD228E4F2E3008BD560 /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = 445D5FD128E4F2E3008BD560 /* Lottie */; };
+		445D5FD428E745C3008BD560 /* SettingsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445D5FD328E745C3008BD560 /* SettingsTableViewCell.swift */; };
+		4485243528F228E500D92055 /* Qanelas-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4485243328F228E500D92055 /* Qanelas-Bold.ttf */; };
+		4485243628F228E500D92055 /* Qanelas-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4485243428F228E500D92055 /* Qanelas-Regular.ttf */; };
+		4485243828F2292100D92055 /* Qanelas-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4485243728F2292100D92055 /* Qanelas-Medium.ttf */; };
 		448E30E328D8FC200053A082 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 448E30E228D8FC200053A082 /* AppDelegate.swift */; };
 		448E30E528D8FC200053A082 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 448E30E428D8FC200053A082 /* SceneDelegate.swift */; };
 		448E30E728D8FC200053A082 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 448E30E628D8FC200053A082 /* ViewController.swift */; };
@@ -25,13 +31,18 @@
 		448E312128D900D80053A082 /* proximanova_bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 448E311A28D900D80053A082 /* proximanova_bold.otf */; };
 		448E312228D900D80053A082 /* Montserrat-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 448E311B28D900D80053A082 /* Montserrat-Regular.ttf */; };
 		448E312328D900D80053A082 /* SFProDisplay-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 448E311C28D900D80053A082 /* SFProDisplay-SemiBold.ttf */; };
-		448E312728D90B560053A082 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 448E312628D90B560053A082 /* GoogleService-Info.plist */; };
-		448E312A28D90BFB0053A082 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 448E312928D90BFB0053A082 /* FirebaseAuth */; };
-		448E312C28D90BFB0053A082 /* FirebaseAuthCombine-Community in Frameworks */ = {isa = PBXBuildFile; productRef = 448E312B28D90BFB0053A082 /* FirebaseAuthCombine-Community */; };
+		44B7694A28F04E3E00BC755D /* DelModelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44B7694928F04E3E00BC755D /* DelModelViewController.swift */; };
+		44B7694D28F0C1A400BC755D /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 44B7694F28F0C1A400BC755D /* Localizable.strings */; };
 		44B8724E28DB64B700B5D201 /* PhoneNumberViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44B8724D28DB64B700B5D201 /* PhoneNumberViewController.swift */; };
 		44B8725128DFB83600B5D201 /* SwiftyJSON in Frameworks */ = {isa = PBXBuildFile; productRef = 44B8725028DFB83600B5D201 /* SwiftyJSON */; };
 		44D4526028E1027600D0FFA5 /* module.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D4525F28E1027600D0FFA5 /* module.swift */; };
 		44D4526228E2116D00D0FFA5 /* AudioTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44D4526128E2116D00D0FFA5 /* AudioTableViewCell.swift */; };
+		44FF145A28FAEE5C008EFFE0 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 44FF145928FAEE5C008EFFE0 /* GoogleService-Info.plist */; };
+		44FF145D28FAF017008EFFE0 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 44FF145C28FAF017008EFFE0 /* FirebaseAuth */; };
+		44FF145F28FAF017008EFFE0 /* FirebaseAuthCombine-Community in Frameworks */ = {isa = PBXBuildFile; productRef = 44FF145E28FAF017008EFFE0 /* FirebaseAuthCombine-Community */; };
+		44FF146128FAF017008EFFE0 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 44FF146028FAF017008EFFE0 /* FirebaseFirestore */; };
+		44FF146328FAF017008EFFE0 /* FirebaseFirestoreCombine-Community in Frameworks */ = {isa = PBXBuildFile; productRef = 44FF146228FAF017008EFFE0 /* FirebaseFirestoreCombine-Community */; };
+		44FF146528FAF017008EFFE0 /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 44FF146428FAF017008EFFE0 /* FirebaseFirestoreSwift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +65,14 @@
 /* Begin PBXFileReference section */
 		441E26A328D917E100D6A0AC /* CodeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeViewController.swift; sourceTree = "<group>"; };
 		441E26A528DA765700D6A0AC /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		445297FA28E4EF3B000A3B64 /* loading.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = loading.json; sourceTree = "<group>"; };
+		445D5FD328E745C3008BD560 /* SettingsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsTableViewCell.swift; sourceTree = "<group>"; };
+		4485242E28F225F200D92055 /* Hezaedrus-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Hezaedrus-Medium.ttf"; sourceTree = "<group>"; };
+		4485242F28F2263000D92055 /* Hezaedrus-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Hezaedrus-Light.ttf"; sourceTree = "<group>"; };
+		4485243028F2264F00D92055 /* Hezaedrus-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Hezaedrus-Regular.ttf"; sourceTree = "<group>"; };
+		4485243328F228E500D92055 /* Qanelas-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Qanelas-Bold.ttf"; path = "../../../../Downloads/Qanelas-Bold.ttf"; sourceTree = "<group>"; };
+		4485243428F228E500D92055 /* Qanelas-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Qanelas-Regular.ttf"; path = "../../../../Downloads/Qanelas-Regular.ttf"; sourceTree = "<group>"; };
+		4485243728F2292100D92055 /* Qanelas-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Qanelas-Medium.ttf"; sourceTree = "<group>"; };
 		448E30DF28D8FC200053A082 /* Call Recorder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Call Recorder.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		448E30E228D8FC200053A082 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		448E30E428D8FC200053A082 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -73,10 +92,15 @@
 		448E311A28D900D80053A082 /* proximanova_bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = proximanova_bold.otf; sourceTree = "<group>"; };
 		448E311B28D900D80053A082 /* Montserrat-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Regular.ttf"; sourceTree = "<group>"; };
 		448E311C28D900D80053A082 /* SFProDisplay-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SFProDisplay-SemiBold.ttf"; sourceTree = "<group>"; };
-		448E312628D90B560053A082 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		44B768FE28ECF30D00BC755D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
+		44B768FF28ECF49600BC755D /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Main.strings; sourceTree = "<group>"; };
+		44B7694928F04E3E00BC755D /* DelModelViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DelModelViewController.swift; sourceTree = "<group>"; };
+		44B7694E28F0C1A400BC755D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		44B7695028F0C1A800BC755D /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
 		44B8724D28DB64B700B5D201 /* PhoneNumberViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhoneNumberViewController.swift; sourceTree = "<group>"; };
 		44D4525F28E1027600D0FFA5 /* module.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = module.swift; sourceTree = "<group>"; };
 		44D4526128E2116D00D0FFA5 /* AudioTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTableViewCell.swift; sourceTree = "<group>"; };
+		44FF145928FAEE5C008EFFE0 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,10 +108,14 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				445D5FD228E4F2E3008BD560 /* Lottie in Frameworks */,
 				441E26A928DA80EF00D6A0AC /* Alamofire in Frameworks */,
-				448E312A28D90BFB0053A082 /* FirebaseAuth in Frameworks */,
 				44B8725128DFB83600B5D201 /* SwiftyJSON in Frameworks */,
-				448E312C28D90BFB0053A082 /* FirebaseAuthCombine-Community in Frameworks */,
+				44FF145D28FAF017008EFFE0 /* FirebaseAuth in Frameworks */,
+				44FF145F28FAF017008EFFE0 /* FirebaseAuthCombine-Community in Frameworks */,
+				44FF146128FAF017008EFFE0 /* FirebaseFirestore in Frameworks */,
+				44FF146328FAF017008EFFE0 /* FirebaseFirestoreCombine-Community in Frameworks */,
+				44FF146528FAF017008EFFE0 /* FirebaseFirestoreSwift in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -115,6 +143,7 @@
 				441E26A328D917E100D6A0AC /* CodeViewController.swift */,
 				441E26A528DA765700D6A0AC /* MainViewController.swift */,
 				44B8724D28DB64B700B5D201 /* PhoneNumberViewController.swift */,
+				44B7694928F04E3E00BC755D /* DelModelViewController.swift */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";
@@ -149,11 +178,13 @@
 				448E30E828D8FC200053A082 /* Main.storyboard */,
 				448E30EE28D8FC220053A082 /* Assets.xcassets */,
 				448E30F028D8FC220053A082 /* LaunchScreen.storyboard */,
-				448E312628D90B560053A082 /* GoogleService-Info.plist */,
+				44FF145928FAEE5C008EFFE0 /* GoogleService-Info.plist */,
 				448E30F328D8FC220053A082 /* Info.plist */,
 				448E30EB28D8FC200053A082 /* Call_Recorder.xcdatamodeld */,
 				44D4525F28E1027600D0FFA5 /* module.swift */,
 				44D4526128E2116D00D0FFA5 /* AudioTableViewCell.swift */,
+				445D5FD328E745C3008BD560 /* SettingsTableViewCell.swift */,
+				44B7694F28F0C1A400BC755D /* Localizable.strings */,
 			);
 			path = "Call Recorder";
 			sourceTree = "<group>";
@@ -178,10 +209,17 @@
 		448E311528D900D80053A082 /* Fonts */ = {
 			isa = PBXGroup;
 			children = (
+				445297FA28E4EF3B000A3B64 /* loading.json */,
 				448E311628D900D80053A082 /* SFPRODISPLAYSEMIBOLDITALIC.OTF */,
+				4485243328F228E500D92055 /* Qanelas-Bold.ttf */,
+				4485243428F228E500D92055 /* Qanelas-Regular.ttf */,
 				448E311928D900D80053A082 /* Montserrat-SemiBold.ttf */,
+				4485243728F2292100D92055 /* Qanelas-Medium.ttf */,
+				4485243028F2264F00D92055 /* Hezaedrus-Regular.ttf */,
 				448E311A28D900D80053A082 /* proximanova_bold.otf */,
+				4485242F28F2263000D92055 /* Hezaedrus-Light.ttf */,
 				448E311B28D900D80053A082 /* Montserrat-Regular.ttf */,
+				4485242E28F225F200D92055 /* Hezaedrus-Medium.ttf */,
 				448E311C28D900D80053A082 /* SFProDisplay-SemiBold.ttf */,
 			);
 			path = Fonts;
@@ -204,10 +242,14 @@
 			);
 			name = "Call Recorder";
 			packageProductDependencies = (
-				448E312928D90BFB0053A082 /* FirebaseAuth */,
-				448E312B28D90BFB0053A082 /* FirebaseAuthCombine-Community */,
 				441E26A828DA80EF00D6A0AC /* Alamofire */,
 				44B8725028DFB83600B5D201 /* SwiftyJSON */,
+				445D5FD128E4F2E3008BD560 /* Lottie */,
+				44FF145C28FAF017008EFFE0 /* FirebaseAuth */,
+				44FF145E28FAF017008EFFE0 /* FirebaseAuthCombine-Community */,
+				44FF146028FAF017008EFFE0 /* FirebaseFirestore */,
+				44FF146228FAF017008EFFE0 /* FirebaseFirestoreCombine-Community */,
+				44FF146428FAF017008EFFE0 /* FirebaseFirestoreSwift */,
 			);
 			productName = "Call Recorder";
 			productReference = 448E30DF28D8FC200053A082 /* Call Recorder.app */;
@@ -279,12 +321,14 @@
 			knownRegions = (
 				en,
 				Base,
+				ru,
 			);
 			mainGroup = 448E30D628D8FC200053A082;
 			packageReferences = (
-				448E312828D90BFB0053A082 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
 				441E26A728DA80EF00D6A0AC /* XCRemoteSwiftPackageReference "Alamofire" */,
 				44B8724F28DFB83600B5D201 /* XCRemoteSwiftPackageReference "SwiftyJSON" */,
+				445D5FD028E4F2E3008BD560 /* XCRemoteSwiftPackageReference "lottie-ios" */,
+				44FF145B28FAF016008EFFE0 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
 			);
 			productRefGroup = 448E30E028D8FC200053A082 /* Products */;
 			projectDirPath = "";
@@ -304,13 +348,18 @@
 			files = (
 				448E312228D900D80053A082 /* Montserrat-Regular.ttf in Resources */,
 				448E30F228D8FC220053A082 /* LaunchScreen.storyboard in Resources */,
-				448E312728D90B560053A082 /* GoogleService-Info.plist in Resources */,
+				44FF145A28FAEE5C008EFFE0 /* GoogleService-Info.plist in Resources */,
+				44B7694D28F0C1A400BC755D /* Localizable.strings in Resources */,
+				4485243828F2292100D92055 /* Qanelas-Medium.ttf in Resources */,
 				448E312028D900D80053A082 /* Montserrat-SemiBold.ttf in Resources */,
+				445297FB28E4EF3C000A3B64 /* loading.json in Resources */,
 				448E312328D900D80053A082 /* SFProDisplay-SemiBold.ttf in Resources */,
 				448E30EF28D8FC220053A082 /* Assets.xcassets in Resources */,
+				4485243628F228E500D92055 /* Qanelas-Regular.ttf in Resources */,
 				448E311D28D900D80053A082 /* SFPRODISPLAYSEMIBOLDITALIC.OTF in Resources */,
 				448E30EA28D8FC200053A082 /* Main.storyboard in Resources */,
 				448E312128D900D80053A082 /* proximanova_bold.otf in Resources */,
+				4485243528F228E500D92055 /* Qanelas-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -336,6 +385,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				448E30E728D8FC200053A082 /* ViewController.swift in Sources */,
+				44B7694A28F04E3E00BC755D /* DelModelViewController.swift in Sources */,
 				448E30E328D8FC200053A082 /* AppDelegate.swift in Sources */,
 				448E30E528D8FC200053A082 /* SceneDelegate.swift in Sources */,
 				441E26A628DA765700D6A0AC /* MainViewController.swift in Sources */,
@@ -343,6 +393,7 @@
 				44D4526028E1027600D0FFA5 /* module.swift in Sources */,
 				441E26A428D917E100D6A0AC /* CodeViewController.swift in Sources */,
 				448E30ED28D8FC200053A082 /* Call_Recorder.xcdatamodeld in Sources */,
+				445D5FD428E745C3008BD560 /* SettingsTableViewCell.swift in Sources */,
 				44D4526228E2116D00D0FFA5 /* AudioTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -384,6 +435,8 @@
 			isa = PBXVariantGroup;
 			children = (
 				448E30E928D8FC200053A082 /* Base */,
+				44B768FE28ECF30D00BC755D /* en */,
+				44B768FF28ECF49600BC755D /* ru */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -396,6 +449,15 @@
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
+		44B7694F28F0C1A400BC755D /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				44B7694E28F0C1A400BC755D /* en */,
+				44B7695028F0C1A800BC755D /* ru */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
@@ -403,6 +465,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
@@ -463,6 +526,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
@@ -701,9 +765,9 @@
 				kind = branch;
 			};
 		};
-		448E312828D90BFB0053A082 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+		445D5FD028E4F2E3008BD560 /* XCRemoteSwiftPackageReference "lottie-ios" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			repositoryURL = "https://github.com/airbnb/lottie-ios?ysclid=l7aemr1x84787246425";
 			requirement = {
 				branch = master;
 				kind = branch;
@@ -717,6 +781,14 @@
 				minimumVersion = 5.0.0;
 			};
 		};
+		44FF145B28FAF016008EFFE0 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
@@ -725,20 +797,40 @@
 			package = 441E26A728DA80EF00D6A0AC /* XCRemoteSwiftPackageReference "Alamofire" */;
 			productName = Alamofire;
 		};
-		448E312928D90BFB0053A082 /* FirebaseAuth */ = {
+		445D5FD128E4F2E3008BD560 /* Lottie */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 448E312828D90BFB0053A082 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseAuth;
-		};
-		448E312B28D90BFB0053A082 /* FirebaseAuthCombine-Community */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 448E312828D90BFB0053A082 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = "FirebaseAuthCombine-Community";
+			package = 445D5FD028E4F2E3008BD560 /* XCRemoteSwiftPackageReference "lottie-ios" */;
+			productName = Lottie;
 		};
 		44B8725028DFB83600B5D201 /* SwiftyJSON */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = 44B8724F28DFB83600B5D201 /* XCRemoteSwiftPackageReference "SwiftyJSON" */;
 			productName = SwiftyJSON;
+		};
+		44FF145C28FAF017008EFFE0 /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 44FF145B28FAF016008EFFE0 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+		44FF145E28FAF017008EFFE0 /* FirebaseAuthCombine-Community */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 44FF145B28FAF016008EFFE0 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = "FirebaseAuthCombine-Community";
+		};
+		44FF146028FAF017008EFFE0 /* FirebaseFirestore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 44FF145B28FAF016008EFFE0 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestore;
+		};
+		44FF146228FAF017008EFFE0 /* FirebaseFirestoreCombine-Community */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 44FF145B28FAF016008EFFE0 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = "FirebaseFirestoreCombine-Community";
+		};
+		44FF146428FAF017008EFFE0 /* FirebaseFirestoreSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 44FF145B28FAF016008EFFE0 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestoreSwift;
 		};
 /* End XCSwiftPackageProductDependency section */
 

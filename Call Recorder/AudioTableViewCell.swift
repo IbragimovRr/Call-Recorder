@@ -10,6 +10,7 @@ import UIKit
 class AudioTableViewCell: UITableViewCell {
 
     
+    @IBOutlet weak var loading: UIActivityIndicatorView!
     @IBOutlet weak var time: UILabel!
     @IBOutlet weak var name: UILabel!
     @IBOutlet weak var date: UILabel!

@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  Call Recorder
+
+  Created by Руслан on 07.10.2022.
+  
+*/
+"txtPopupDel" = "Do you want to delete all your data and application account? This operation can’t be undone.";
+"yes" = "Yes";
+"not" = "Not";
+"registr" = "Hi! Enter your phone number and come in soon 👌";
+"btnRegistr" = "Enter";
+"code" = "Thanks! I sent the code, catch it 👆";
+"code2" = "You can request it again via";
+"otprCode" = "Send the code";
+"main1" = "How do I record calls here?";
+"main2" = "You can call your Contact number by dialing Service number and connect them in Merge Calls mode. Application first dials Service and then Contacts number";
+"notif" = "Enable Notifications in Settings to Dial Service Number";
+"keyboard" = "Keyboard";
+"contacts" = "Contacts";
+"recent" = "Recent";
+"hid1" = "While it's empty here";
+"hid2" = "When the entries appear, they will be displayed here";
+"settings" = "Settings";
+"myNumber" = "My number";
+"serviceNumbers" = "Service numbers";
+"delAcc" = "Delete Account";
